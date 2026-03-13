@@ -1,74 +1,17 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Ty Yue - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/Ty Yue Resume.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [ty429@cornell.edu](mailto:ty429@cornell.edu) | | | **Phone:** +626 554 1573
 
----
-
-#### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
-
----
-
-#### Education
-- **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
-
-- **[High School Name]**  
-  *High School Diploma*  
-  Graduation: [Month, Year]
-
----
-
-#### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
-
----
-
-#### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
----
-
-#### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
-
----
-
-#### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
-
----
-
-#### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
-
----
-
-#### References
-Available upon request.
-
----
+Bachelor of Science in Mechanical Engineering, Minor in Biomedical Engineering, expected June 2029
+Cornell University, Ithaca, NY
+ - GPA: 3.67
+ - Coursework: Statics & Mechanics of Solids, Differential Equations, Physics Electromagnetism, Multivariable   Calculus, Physics Mechanics & Heat, Modern Engineering Structures, Comparative Physiology, Computer Aided Manufacturing with MasterCAM
+ - Extracurricular Involvement: Cornell University Science Olympiad, Asian American Intervarsity
