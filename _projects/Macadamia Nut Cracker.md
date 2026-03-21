@@ -27,7 +27,7 @@ Finally, I obtained the average load to crack macadamia nuts from a paper by Sch
 To calculate necessary dimensions of the nutcracker, it needed to fit the nut while still providing a long enough lever arm to crack it, according to the diagram below.
 
 Nutcracker lever diagram:
-![Lever Diagram](/sp26-portfolio-taidiyue2/assets/images/lever-diagram.png)
+![Lever Diagram]({{ site.baseurl }}/assets/images/lever-diagram.png)
 
 With L1 being 3 times the estimated macadamia nut radius, I estimated that the angle should allow a sufficient ease of use and allow for the lever arm to be a reasonable length.
 
